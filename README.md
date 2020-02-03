@@ -1,27 +1,25 @@
-<img src="venudp.jpg" width="100" height="100">
+# <p align="center"><b>SELF INTRODUCTION</b></p> 
+<img src="venudp.jpg" align="right" width="120" height="120">
  
- NAME: VENUGOPAL SAI SANKAR NAREDLA                                                     
+ **NAME**: VENUGOPAL SAI SANKAR NAREDLA                                                     
  
- Mail: naredlav1@hawkmail.newpaltz.edu
+ **Mail**: naredlav1@hawkmail.newpaltz.edu
  
- IDno: N04043455
+ **IDno**: N04043455
  
- CURRENT STUDY: GRADUATION IN COMPUTER SCIENCE
+ **CURRENT STUDY**: Masters in Computer Science at SUNY NewPaltz
  
- PREVIOUS STUDY: UNDER GRAD IN COMPUTER SCIENCE
+ **PREVIOUS STUDY**: Undergrad in Computer Science and Engineering at JNTUK India
 
 
-
-
-PROJECTS DELT WITH: 
+**PREVIOUS PROJECTS**
 1. Smart Street Lights [ IOT Based ]
 2. Nyx-Online [ Android Studio ]
 3. Collaborated with the development team of Filmbuddy Website
 
 
 
-PREVIOUS WORKS:
-
+**PREVIOUS PROJECTS**
 1. Attended the Workshop based on the Cybersecurity and Malware Analysis
 2. Certified in C Language by APEX Academy.
 3. Learned the backend designing of the database, back in my Under grad.
