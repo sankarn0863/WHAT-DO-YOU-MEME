@@ -5,17 +5,8 @@
           Home Page
         </h1>
     </div>
+
   </section>
 </template>
 
 
-
-
-<script>
-export default {
-  name: 'Home',
-  components: {
-    
-  }
-}
-</script>
